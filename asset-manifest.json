@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DarkSvo/goit-react-hw-01-components/static/css/main.6eecd489.css",
+    "main.js": "/DarkSvo/goit-react-hw-01-components/static/js/main.fdc4bf01.js",
+    "index.html": "/DarkSvo/goit-react-hw-01-components/index.html",
+    "main.6eecd489.css.map": "/DarkSvo/goit-react-hw-01-components/static/css/main.6eecd489.css.map",
+    "main.fdc4bf01.js.map": "/DarkSvo/goit-react-hw-01-components/static/js/main.fdc4bf01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eecd489.css",
+    "static/js/main.fdc4bf01.js"
+  ]
+}
